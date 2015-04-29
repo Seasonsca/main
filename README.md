@@ -16,10 +16,10 @@ Journalist | Wordpress Personal Blog Theme
 
 * Layout
 * Framework
-**Layout
-** Customizer
-** Post-Formats
-** Widgets
+1.Layout
+2. Customizer
+3.Post-Formats
+4.Widgets
 ** 
 * Images
 * Sass
