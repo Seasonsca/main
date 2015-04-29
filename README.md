@@ -1,7 +1,7 @@
 Journalist | Wordpress Personal Blog Theme
 ==========================================
 
-#Files To Create in Root Folder
+##Files To Create in Root Folder
 
 * functions.php
 * style.css
