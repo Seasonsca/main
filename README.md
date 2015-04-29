@@ -16,7 +16,7 @@ Journalist | Wordpress Personal Blog Theme
 
 * Layout
 * Framework
-** Layout
+**Layout
 ** Customizer
 ** Post-Formats
 ** Widgets
